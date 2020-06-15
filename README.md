@@ -1,3 +1,7 @@
+This code is associated with the paper from Okaty et al., "A single-cell transcriptomic and anatomic atlas of mouse dorsal raphe Pet1 neurons". eLife, 2020. http://doi.org/10.7554/eLife.55523
+
+
+
 # RNAscope-IHC 2D colocalization and puncta counting macro
 
 This [Fiji](https://imagej.net/Fiji "Fiji") macro allows a user to perform semi-automated quantification of 2D IHC colocalization and RNAscope puncta counting in fluorescent microscopy images. 
